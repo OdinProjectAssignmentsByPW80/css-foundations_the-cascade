@@ -1,4 +1,4 @@
-# Intro To CSS
+# The Cascade
 
 Exercises focusing on specificity and rule order. Fix the elements that have some sort of specificity or rule order
 issue in the provided CSS file
