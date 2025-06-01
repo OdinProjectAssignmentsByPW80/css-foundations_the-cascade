@@ -18,207 +18,36 @@ issue in the provided CSS file
 
 ## Results
 
-*coming soon*
-
-<!-- <table>
+<table>
 
 <tr>
 <td>
 
-### 01 - CSS Methods
-
-</td>
-<td></td>
-<td></td>
-
-<tr>
-<td>
-
-#### UNSTYLED
+#### BEFORE
 
 </td>
 <td></td>
 <td>
 
-#### STYLED
+#### AFTER
 
 </td>
 </tr>
 
 <tr>
-<td>
+<td width="47%">
 
-![css methods unstyled](./img/unstyled1.png)
+![cascade fix before](./img/before.png)
 
 </td>
-<td>
+<td width="6%" align="center">
 <h1>&rArr;</h1>
 </td>
-<td>
+<td width="47%">
 
-![css methods styled](./img/styled1.png)
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 02 - Class ID Selectors
-
-</td>
-<td></td>
-<td></td>
-</tr>
-
-<tr>
-<td>
-
-#### UNSTYLED
-
-</td>
-<td></td>
-<td>
-
-#### STYLED
+![cascade fix after](./img/after.png)
 
 </td>
 </tr>
 
-<tr>
-<td>
-
-![css methods unstyled](./img/unstyled2.png)
-
-</td>
-<td>
-<h1>&rArr;</h1>
-</td>
-<td>
-
-![css methods styled](./img/styled2.png)
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 03 - Grouping Selectors
-
-</td>
-<td></td>
-<td></td>
-</tr>
-
-<tr>
-<td>
-
-#### UNSTYLED
-
-</td>
-<td></td>
-<td>
-
-#### STYLED
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-![grouping selectors unstyled](./img/unstyled3.png)
-
-</td>
-<td>
-<h1>&rArr;</h1>
-</td>
-<td>
-
-![grouping selectors styled](./img/styled3.png)
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 04 - Chaining Selectors
-
-</td>
-<td></td>
-<td></td>
-</tr>
-
-<tr>
-<td>
-
-#### UNSTYLED
-
-</td>
-<td></td>
-<td>
-
-#### STYLED
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-![chaining selectors unstyled](./img/unstyled4.png)
-
-</td>
-<td>
-<h1>&rArr;</h1>
-</td>
-<td>
-
-![chaining selectors styled](./img/styled4.png)
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 05 - Descendant Combinator
-
-</td>
-<td></td>
-<td></td>
-</tr>
-
-<tr>
-<td>
-
-#### UNSTYLED
-
-</td>
-<td></td>
-<td>
-
-#### STYLED
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-![descendant combinator unstyled](./img/unstyled5.png)
-
-</td>
-<td>
-<h1>&rArr;</h1>
-</td>
-<td>
-
-![descendant combinator styled](./img/styled5.png)
-
-</td>
-</tr>
-
-</table> -->
+</table>
