@@ -13,7 +13,7 @@ issue in the provided CSS file
 
 ## Assignment Instructions
 
- - ### [01 - Cascade Fix &rArr;](./01-cascade-fix/)
+-  [01 - Cascade Fix &rArr;](./01-cascade-fix/)
 
 
 ## Results
